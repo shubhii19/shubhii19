@@ -24,28 +24,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
 
-### 📌 Projects
-
-- 💼 **[Portfolio Website](#)** – Personal portfolio showcasing my work.
-- 🎮 **[Catch the Creature Game](#)** – A fun interactive game built with JS.
-- 🌍 **[Reimagined BMW Website](#)** – Submitted for Sheryians Coding School Hackathon.
-- 🧾 **[Expense Tracker App](#)** – Full-stack app with secure login and analytics.
-
----
-
-### 📊 GitHub Stats
-
-![Shubhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhiVishwakarma&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhiVishwakarma&layout=compact&theme=radical)
-
----
 
 ### 🌱 Currently Learning
 
-- ⚙️ Backend Development with Express & MongoDB  
 - 🌐 Deployment with Docker & CI/CD tools  
 - 📚 DSA for Placement Preparation  
 
