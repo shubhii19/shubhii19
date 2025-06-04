@@ -48,7 +48,7 @@
 
 ### 💡 Fun Fact
 
-> *"Code is like humor — when you have to explain it, it’s bad."*
+> *"I started with console.log('Hello World') and now I'm building full-stack applications — every coder’s journey begins somewhere!"*
 
 ---
 
