@@ -14,8 +14,7 @@
 
 ### 🖌️ Also Exploring
 
-- 🎨 UI/UX Design (Beginner, but learning step-by-step)
-
+- 🎨 UI/UX Design 
 ---
 
 ### ⚙️ Tech Stack
