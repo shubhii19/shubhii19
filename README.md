@@ -50,5 +50,4 @@
 
 > *"I started with console.log('Hello World') and now I'm building full-stack applications — every coder’s journey begins somewhere!"*
 
----
 
