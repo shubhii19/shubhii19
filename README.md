@@ -12,7 +12,7 @@
  
 ---         
              
-### 🖌️ Also Exploring
+### 🖌️ Also Exploring   
                  
 - 🎨 UI/UX Design 
 ---
