@@ -2,7 +2,7 @@
 
 <p align="center">🚀 Turning ideas into real-world digital products with clean code & logical problem solving.</p>
                                                                                          
----                                                       
+---                                                                       
                                   
 ### 🧑‍💻 About Me                                                                                                                                                                  
                                                                       
