@@ -4,7 +4,7 @@
                                                                                                         
 ---                                                                       
                                                                                                  
-### 🧑‍💻 About Me                                                                                                                                                                  
+### 🧑‍💻 About Me                                                                                                                                                                                   
                                                                                                                                            
 - 🔧 Full Stack Web Developer                                                                                               
 - ☕ Java Enthusiast & DSA Explorer                                               
